@@ -1,0 +1,1 @@
+# open-telemetry-k8s-setup
